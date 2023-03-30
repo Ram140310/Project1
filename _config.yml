@@ -1,7 +1,6 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
-# Site Settings
 locale                   : "en-US"
 title                    : "stocksight"
 title_separator          : "-"
@@ -12,7 +11,7 @@ baseurl                  : "/stocksight"
 repository               : "shirosaidev/stocksight"
 show_downloads           : true
 
-# Analytics
+
 analytics:
   provider               : google
   google:
